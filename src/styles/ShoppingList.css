@@ -1,0 +1,48 @@
+.lbm-instrument-list {
+	height: 100%;
+	width: 100%;
+	list-style-type: none;
+	padding: 0px;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	max-width: auto;
+}
+.box-instrument /*:hover*/ {
+	width: 100%;
+	/*transform: scale(1.5);
+	transform: scale(1.5); 
+	transform: scale(1.5);
+	z-index: 1;*/
+}
+
+/*.lbm--instrument-item-cover{
+transition: transform .1s;
+}*/
+
+
+
+@media screen {
+	@media(min-width: 400px) /*and (max-width: 1388px)*/ {
+		
+		.lbm-shopping-list {
+			width: 100%;
+		}
+
+		.box-instrument {
+			width: 100%;
+		}
+	
+		.lbm-banner {
+			width: 100%;
+		}
+	
+		.lbm-footer {
+			width: 100%;
+		}
+	
+		.lbm-categories {
+			width: 100%;
+		}
+
+	}
+}

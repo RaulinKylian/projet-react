@@ -1,0 +1,4 @@
+.lbm-layout-inner {
+	display: flex;
+	flex-direction:  column;
+}

@@ -1,0 +1,12 @@
+.lbm-categories {
+	text-align: right;
+	padding-top: 30px;
+	margin-right: 20px;
+	color: rgb(192, 194, 194);
+}
+
+.lbm-categories-select {
+	margin-right: 15px;
+	background-color: rgb(111, 119, 119);
+	color: aliceblue;
+}
